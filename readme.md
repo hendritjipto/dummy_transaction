@@ -1,6 +1,6 @@
 ## Dummy Data - Transaction
 Transaction based on business: 
-```json
+```javascript
 {
   business_id: '000000000000000000103',
   type: 'MONEY_OUT',
@@ -25,7 +25,7 @@ Transaction based on business:
 ```
 
 Transaction history: 
-```json
+```javascript
 {
   business_id: '',
   type: 'MONEY_OUT',
